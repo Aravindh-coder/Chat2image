@@ -1,0 +1,6 @@
+{
+  "name": "Chat2Image",
+  "description": "Conversational AI Image Creation Studio — Create, refine, and explore AI-generated images through a simple conversation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
